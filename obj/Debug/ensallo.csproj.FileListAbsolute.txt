@@ -1,0 +1,7 @@
+C:\Users\Harri\source\repos\ensallo\bin\Debug\ensallo.exe.config
+C:\Users\Harri\source\repos\ensallo\bin\Debug\ensallo.exe
+C:\Users\Harri\source\repos\ensallo\bin\Debug\ensallo.pdb
+C:\Users\Harri\source\repos\ensallo\obj\Debug\ensallo.csproj.AssemblyReference.cache
+C:\Users\Harri\source\repos\ensallo\obj\Debug\ensallo.csproj.CoreCompileInputs.cache
+C:\Users\Harri\source\repos\ensallo\obj\Debug\ensallo.exe
+C:\Users\Harri\source\repos\ensallo\obj\Debug\ensallo.pdb
